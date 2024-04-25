@@ -1,61 +1,50 @@
-<div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-     
+<h1 align="center">Hi 👋, I'm Prem Kumar</h1>
+<div align="center">
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="profile-img" width="90%" height="320vh" margin="auto"/>
+<br/>
+<br/>
+<h2 align="center">Hi 👋, About Me</h2>
+<p align="left" padding="10px">I am very passionate in software filed from my school time. I have sound understanding computer fundamental, Data structure, programming languages and framework/library. Currently I am enjoying wonder full technology learning and new things in software development.</p>
+<br/>
+<br/>
 
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Ashish Kumar Chaudhary</h1><a id="user-content-hi--im-ashish-kumar-chaudhary" class="anchor" aria-label="Permalink: Hi 👋, I'm Ashish Kumar Chaudhary" href="#hi--im-ashish-kumar-chaudhary"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div align="center" dir="auto">
-<animated-image data-catalyst="" style="width: 90%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c809a573eab9cf59441614b447a0df7af59d4743fe00cad4a78fcd7d9fcdb0a5/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/c809a573eab9cf59441614b447a0df7af59d4743fe00cad4a78fcd7d9fcdb0a5/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="profile-img" height="320vh" data-canonical-src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/c809a573eab9cf59441614b447a0df7af59d4743fe00cad4a78fcd7d9fcdb0a5/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="profile-img" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/c809a573eab9cf59441614b447a0df7af59d4743fe00cad4a78fcd7d9fcdb0a5/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" height="320vh" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="762" height="320"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play profile-img" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play profile-img">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open profile-img in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/c809a573eab9cf59441614b447a0df7af59d4743fe00cad4a78fcd7d9fcdb0a5/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image>
-<br>
-<br>
-<div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Hi 👋, About Me</h2><a id="user-content-hi--about-me" class="anchor" aria-label="Permalink: Hi 👋, About Me" href="#hi--about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="left" dir="auto">I am very passionate in software filed from my school time. I have sound understanding computer fundamental, Data structure, programming languages and framework/library. Currently I am enjoying wonder full technology learning and new things in software development.</p>
-<br>
-<br>
-<p align="left&quot;" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/12cb7556687b10f8a244b94361ea514c216aa47eaf5d47bbba1c367b1d7ba67a/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d61736869736863686175646861727933363339" alt="ashishchaudhary3639" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ashishchaudhary3639" style="max-width: 100%;"></a> </p>
-<div dir="auto">
+
+
+<p align=left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishchaudhary3639" alt="ashishchaudhary3639" /></a> </p>
+
+<div aligh="left">
  🔭 I’m currently working on **Full Stack Development**
-<p dir="auto">🌱 I’m currently learning <strong>Software Development</strong></p>
-<p dir="auto">👯 I’m looking to collaborate on <strong>MERN Development</strong></p>
-<p dir="auto">👨‍💻 All of my projects are available at <a href="https://github.com/AshishChaudhary3639">https://github.com/AshishChaudhary3639</a></p>
-<p dir="auto">💬 Ask me about <strong>Full Stack Development</strong></p>
-<p dir="auto">📫 How to reach me <strong><a href="https://ashishchaudhary3639.github.io/" rel="nofollow">https://ashishchaudhary3639.github.io/</a></strong></p>
+
+ 🌱 I’m currently learning **Software Development**
+
+ 👯 I’m looking to collaborate on **MERN Development**
+
+ 👨‍💻 All of my projects are available at [https://github.com/AshishChaudhary3639](https://github.com/AshishChaudhary3639)
+
+ 💬 Ask me about **Full Stack Development**
+
+ 📫 How to reach me **https://ashishchaudhary3639.github.io/**
 </div>
-<div align="" dir="auto">
-<div class="markdown-heading" dir="auto"><h3 align="left" class="heading-element" dir="auto">Connect with me:</h3><a id="user-content-connect-with-me" class="anchor" aria-label="Permalink: Connect with me:" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="left" dir="auto">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-chaudhary-216b23186/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-chaudhary-216b23186/" height="50" width="60" style="max-width: 100%;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ashishchaudhar11" height="30" width="40" style="max-width: 100%;"></a>
+<div align="" >
+<h3 align="left" >Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-chaudhary-216b23186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-chaudhary-216b23186/" height="50" width="60" target="_blank"
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/ashishchaudhar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ashishchaudhar11" height="30" width="40" /></a>
 </p>
 </div>
-<div class="markdown-heading" dir="auto"><h3 align="left" class="heading-element" dir="auto">Languages and Tools:</h3><a id="user-content-languages-and-tools" class="anchor" aria-label="Permalink: Languages and Tools:" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="left" dir="auto"> <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.cypress.io" rel="nofollow"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://jestjs.io" rel="nofollow"> <img src="https://camo.githubusercontent.com/87882410b423221c16582e2f23590a723cb841ef3458ccdc7b13ba8d5bcc0354/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667" alt="jest" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="max-width: 100%;"> </a> <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a> <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> </p>
-<p align="left" width="100%" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ade517553446c8201a80822bf59c84cbb3dc040fedaa471caad09a45edf3bdf8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d617368697368636861756468617279333633392673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"><img align="center" src="https://camo.githubusercontent.com/ade517553446c8201a80822bf59c84cbb3dc040fedaa471caad09a45edf3bdf8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d617368697368636861756468617279333633392673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="ashishchaudhary3639" width="60%" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishchaudhary3639&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a></p>
-<p align="left" width="100%" dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0db53c251916bae7957dc7e15dcf70f7705e2ad4ac789759caccacff601e1748/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617368697368636861756468617279333633392673686f775f69636f6e733d74727565266c6f63616c653d656e"><img align="center" src="https://camo.githubusercontent.com/0db53c251916bae7957dc7e15dcf70f7705e2ad4ac789759caccacff601e1748/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617368697368636861756468617279333633392673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="ashishchaudhary3639" width="60%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ashishchaudhary3639&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"></a></p>
-<p align="left" width="100%" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4da97d7c7f35982881dbba9834a6d5f43357ad90f2285566f812c49f77c7f47b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6173686973686368617564686172793336333926"><img align="center" src="https://camo.githubusercontent.com/4da97d7c7f35982881dbba9834a6d5f43357ad90f2285566f812c49f77c7f47b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6173686973686368617564686172793336333926" alt="ashishchaudhary3639" width="60%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ashishchaudhary3639&amp;" style="max-width: 100%;"></a></p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+
+<p align="left"margin-left="30px"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p align="left" width="100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishchaudhary3639&show_icons=true&locale=en&layout=compact" alt="ashishchaudhary3639" width="60%" /></p>
+
+<p align="left" width="100%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishchaudhary3639&show_icons=true&locale=en" alt="ashishchaudhary3639" width="60%" /></p>
+
+<p align="left" width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishchaudhary3639&" alt="ashishchaudhary3639" width="60%"/></p>
+
+
+
 </div>
-</article>
-  </div>
+
